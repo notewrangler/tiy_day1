@@ -1,0 +1,58 @@
+#banner {
+  width: 60%;
+  margin: auto;
+  background: #9BCBEF;
+  border-radius: 10px;  
+  text-align: center;  
+}
+
+#banner h1 {
+  font-family: Arial;
+  font-size: 3em;
+  color: blue;
+  padding-top: 25px;
+}
+
+#sub_title {
+ width: 40%;
+ padding: 1px; 
+ border-radius: 8px; 
+ margin: auto;
+ text-align: center;
+ background: #EAEAD5;
+ font-family: verdana;
+}
+
+h4 {
+  font-family: verdana;
+}
+
+.threesome {  
+  display: inline;
+}
+
+.one-third {
+  list-style-type: none;
+  float: left;
+  width: 30%;
+  padding: 12px;
+  font-family: verdana;
+}
+
+.gr {
+  background: #e2dcdc;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+#topper {
+  padding-left: 38px;
+}
+
+#ctr {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+
+
